@@ -1,1 +1,6 @@
 Alert('hello');
+
+function addCustomer() {
+
+
+}
