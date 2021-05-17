@@ -1,6 +1,4 @@
 Alert('hello');
 
 function addCustomer() {
-
-
 }
